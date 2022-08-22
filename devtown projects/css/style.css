@@ -325,6 +325,56 @@ span {
     font-family: 'Merriweather', serif;
     color: #1d3557;
 }
+.right {
+    width: 50%;
+    height: 550px;
+    /* background-color: cornsilk; */
+    /* position: relative; */
+}
+
+.top {
+    width: 100%;
+    height: 275px;
+    /* background-color: darkorchid; */
+    position: relative;
+    display: flex;
+}
+
+.rest_img1 {
+    position: absolute;
+    top: 7.5rem;
+    width: 300px;
+    height: 150px;
+}
+
+.rest_img2 {
+    position: absolute;
+    top: 3rem;
+    left: 19rem;
+    width: 350px;
+    height: 220px;
+}
+
+.down {
+    width: 100%;
+    height: 275px;
+    /* background-color: #26a232; */
+    display: flex;
+    position: relative;
+}
+
+.rest_img3 {
+    position: absolute;
+    width: 380px;
+    height: 220px;
+}
+
+.rest_img4 {
+    position: absolute;
+    left: 24rem;
+    width: 270px;
+    height: 150px;
+}
 
 
 /* -------------------------------------------------------------------------------------------------------------------------- */
